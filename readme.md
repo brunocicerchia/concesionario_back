@@ -267,6 +267,3 @@ src/
 │       └── application.properties
 ```
 
-## Contacto
-
-Para más información sobre el proyecto, consultar la documentación del código fuente.
